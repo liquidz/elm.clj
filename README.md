@@ -1,5 +1,7 @@
 # elm
 
+[![CircleCI](https://circleci.com/gh/liquidz/elm.clj.svg?style=svg)](https://circleci.com/gh/liquidz/elm.clj)
+
 A Clojure library designed to ... well, that part is up to you.
 
 ## Usage
